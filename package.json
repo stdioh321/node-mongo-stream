@@ -1,0 +1,24 @@
+{
+  "name": "node-mongo-stream",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Test node mongo stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdioh321/node-mongo-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdioh321/node-mongo-stream/issues"
+  },
+  "homepage": "https://github.com/stdioh321/node-mongo-stream#readme",
+  "dependencies": {
+    "mongodb": "^4.2.2"
+  }
+}
